@@ -1,6 +1,9 @@
 ## Hi there 👋
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Yoon0yoon}" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{Yoon0yoon}?pet-id=1" width="1000" height="120"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{Yoon0yoon}"/>
 </a>
 <!--
 **Yoon0yoon/Yoon0yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
